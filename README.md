@@ -1,9 +1,9 @@
 # OnceUponATensor
-Hoard for selfmade fairy tales for my children. The heavy lifting was done by generative AI, means parts of the texts, sometimes even the idea for the plot and the illustrations as well. My own input were curation, polishing, rewriting some paragraphs and preparing/picking proper images.
+A treasury for homemade fairy tales for my children. The bulk of the work was accomplished using generative AI, which contributed to parts of the text, and sometimes even the ideas for the plot and the illustrations. My contributions included curation, polishing, rewriting some sections, and selecting or preparing appropriate images.
 
-Each directory contains all the images, the raw text, the assembled document and output as PDF.
+Each directory contains all the images, the raw text, the assembled document, and the output as a PDF.
 
-All stories and with its source-material are open-source and free to use under GPL-3.0.
+All stories, along with their source material, are open source and free to use under the `GPL-3.0 license`.
 
 ## Challenges
-It is really hard to get consistent output from DALL-E 3: even when you described the heroes and their outfits or the environment in detail, stuff gets lots over rendering different scenes. For instance: dragons suddenly change their color, a cat looses its hat or it was impossible to put a cat into a cage (`Hänsel & Gretel`-style). Of course, other tools like Midjourney or StableDiffusion with  ControlNet allow more control, but require more effort.
+Achieving consistent output from DALL-E 3 is quite challenging. Even when the heroes and their outfits or the environment are described in detail, some elements get lost across different scenes. For example, dragons may suddenly change their color, a cat loses its hat, or it proves impossible to place a cat into a cage (in the style of "Hansel and Gretel"). Although other tools like Midjourney or Stable Diffusion with ControlNet offer more control, they require additional effort.
