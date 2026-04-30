@@ -7,3 +7,9 @@ All stories, along with their source material, are open source and free to use u
 
 ## Challenges
 Achieving consistent output from DALL-E 3 is quite challenging. Even when the heroes and their outfits or the environment are described in detail, some elements get lost across different scenes. For example, dragons may suddenly change their color, a cat loses its hat, or it proves impossible to place a cat into a cage (in the style of "Hansel and Gretel"). Although other tools like Midjourney or Stable Diffusion with ControlNet offer more control, they require additional effort.
+
+**Author: Marcel Petrick <mail@marcelpetrick.it>**
+
+**Note: projected is generated with AI.**
+
+**License: GPLv3 or later. See `LICENSE`.**
