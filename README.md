@@ -10,6 +10,6 @@ Achieving consistent output from DALL-E 3 is quite challenging. Even when the he
 
 **Author: Marcel Petrick <mail@marcelpetrick.it>**
 
-**Note: projected is generated with AI.**
-
 **License: GPLv3 or later. See `LICENSE`.**
+
+**Note: project is generated with AI.**
